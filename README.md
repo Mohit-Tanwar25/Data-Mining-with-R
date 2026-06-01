@@ -169,7 +169,6 @@ After completing this project, you will understand:
 
 <div align="center">
 
-⭐ If you found this project useful, consider giving it a ⭐ on GitHub!
 
 🚀 *Turning data into meaningful insights through Data Mining.*
 
