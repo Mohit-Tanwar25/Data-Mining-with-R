@@ -1,5 +1,4 @@
-````md id="beautiful-readme"
-# 📊 Association Rule Data Mining Project  
+# 📊 Association Rule Data Mining Project
 
 <h3 align="center">
 ✨ Association Rule Mining using Apriori Algorithm ✨
@@ -11,39 +10,39 @@ A Data Mining project demonstrating <b>Market Basket Analysis</b>, <b>Apriori Al
 
 ---
 
-## 🚀 Project Overview  
+## 🚀 Project Overview
 
-This project explains **Association Rule Mining** and the **Apriori Algorithm** using practical examples from grocery stores and Amazon recommendation systems.  
+This project explains **Association Rule Mining** and the **Apriori Algorithm** using practical examples from grocery stores and Amazon recommendation systems.
 
-It demonstrates:  
+It demonstrates:
 
-✨ Support, Confidence & Lift Metrics  
-✨ Frequent Itemset Generation  
-✨ Apriori vs FP-Growth Comparison  
-✨ Recommendation System Logic  
-✨ Real-world Business Applications  
-
----
-
-## 🎯 Objectives  
-
-✔️ Understand Market Basket Analysis  
-✔️ Implement the Apriori Algorithm  
-✔️ Generate Frequent Itemsets  
-✔️ Calculate Support, Confidence & Lift  
-✔️ Compare Apriori with FP-Growth  
-✔️ Study Amazon Recommendation Systems  
-✔️ Explore Real-world Data Mining Applications  
+✨ Support, Confidence & Lift Metrics
+✨ Frequent Itemset Generation
+✨ Apriori vs FP-Growth Comparison
+✨ Recommendation System Logic
+✨ Real-world Business Applications
 
 ---
 
-## 🛠️ Technologies Used  
+## 🎯 Objectives
+
+✔️ Understand Market Basket Analysis
+✔️ Implement the Apriori Algorithm
+✔️ Generate Frequent Itemsets
+✔️ Calculate Support, Confidence & Lift
+✔️ Compare Apriori with FP-Growth
+✔️ Study Amazon Recommendation Systems
+✔️ Explore Real-world Data Mining Applications
+
+---
+
+## 🛠️ Technologies Used
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter\&logoColor=white)
 ![Data Mining](https://img.shields.io/badge/Data%20Mining-blue)
 ![Apriori](https://img.shields.io/badge/Apriori-Algorithm-green)
 
@@ -51,36 +50,36 @@ It demonstrates:
 
 ---
 
-## 📚 Concepts Covered  
+## 📚 Concepts Covered
 
-🔹 Market Basket Analysis  
-🔹 Frequent Itemsets  
-🔹 Apriori Principle  
-🔹 Association Rules  
-🔹 Support  
-🔹 Confidence  
-🔹 Lift  
-🔹 FP-Growth Algorithm  
-🔹 Recommendation Systems  
+🔹 Market Basket Analysis
+🔹 Frequent Itemsets
+🔹 Apriori Principle
+🔹 Association Rules
+🔹 Support
+🔹 Confidence
+🔹 Lift
+🔹 FP-Growth Algorithm
+🔹 Recommendation Systems
 
 ---
 
-## 📂 Project Structure  
+## 📂 Project Structure
 
-```bash id="8k8g36"
+```bash
 📦 Association-Rule-Data-Mining
  ┣ 📜 README.md
  ┣ 📄 Project_Report.pdf
  ┣ 📄 Source_Code.py
  ┣ 📄 Dataset.xlsx
  ┗ 📸 Output_Screenshots
-````
+```
 
 ---
 
 ## ⚙️ Apriori Algorithm Workflow
 
-```text id="g7owf7"
+```text
 📥 Load Transaction Dataset
         ↓
 📊 Generate Frequent 1-Itemsets
@@ -150,7 +149,6 @@ After completing this project, you will understand:
 
 ### Mohit Tanwar
 
-🎓 BCA – 6th Semester
 🏫 Dezyne École College
 
 </div>
@@ -176,4 +174,3 @@ After completing this project, you will understand:
 🚀 *Turning data into meaningful insights through Data Mining.*
 
 </div>
-```
