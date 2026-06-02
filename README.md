@@ -42,7 +42,6 @@ It demonstrates:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter\&logoColor=white)
 ![Data Mining](https://img.shields.io/badge/Data%20Mining-blue)
 ![Apriori](https://img.shields.io/badge/Apriori-Algorithm-green)
 
